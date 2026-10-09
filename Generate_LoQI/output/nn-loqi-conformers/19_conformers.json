@@ -16,9 +16,10 @@
   null,
   null
  ],
- "generation_time": 38.2903311252594,
+ "generation_time": 49.40354084968567,
  "energy_range": null,
  "sdf_file": "19_conformers.sdf",
  "xyz_file": "",
- "energy_status": "Not calculated: sampling-only LoQI; descriptor pipeline uses the first valid conformer."
+ "energy_status": "Not calculated: sampling-only LoQI; descriptor pipeline uses the first valid conformer.",
+ "descriptor_outputs_need_recalculation": true
 }

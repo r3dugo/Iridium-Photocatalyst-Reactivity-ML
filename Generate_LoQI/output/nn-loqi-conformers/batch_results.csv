@@ -12,7 +12,7 @@ id,smiles,n_conformers,energy_range_kcal,generation_time,sdf_file,xyz_file,json_
 14,C1=CC2=C(C3=C(C=CC=N3)C(=O)C2=O)N=C1,12,0.0,60.45891785621643,14_conformers.sdf,,14_conformers.json
 16,C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1,12,0.0,73.72319912910461,16_conformers.sdf,,16_conformers.json
 17,C1=CC2=CC(=C3C=CC=NC3=C2N=C1)[N+](=O)[O-],12,0.0,73.40440702438354,17_conformers.sdf,,17_conformers.json
-19,O=C1c2ccccc2-c2ccccc21,12,0.0,54.94122099876404,19_conformers.sdf,,19_conformers.json
+19,O=c2c1cccnc1c3ncccc23,12,,49.40354084968567,19_conformers.sdf,,19_conformers.json
 20,CC1=CN=C2C(=C1C)C=CC3=C(C(=CN=C32)C)C,12,0.0,86.59573197364807,20_conformers.sdf,,20_conformers.json
 21,C1=CC=C2C(=C1)C=CC(=N2)C3=NC4=CC=CC=C4C=C3,12,0.0,76.43627977371216,21_conformers.sdf,,21_conformers.json
 23,Cc5cc(c1ccccc1)c4ccc3c(c2ccccc2)cc(C)nc3c4n5,12,0.0,158.27024102210999,23_conformers.sdf,,23_conformers.json
