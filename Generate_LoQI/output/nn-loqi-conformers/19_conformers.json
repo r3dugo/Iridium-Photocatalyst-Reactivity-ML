@@ -21,5 +21,6 @@
  "sdf_file": "19_conformers.sdf",
  "xyz_file": "",
  "energy_status": "Not calculated: sampling-only LoQI; descriptor pipeline uses the first valid conformer.",
- "descriptor_outputs_need_recalculation": true
+ "descriptor_outputs_need_recalculation": false,
+ "descriptor_recalculation_status": "Completed with generate_descriptors.ipynb on 2026-10-09"
 }
