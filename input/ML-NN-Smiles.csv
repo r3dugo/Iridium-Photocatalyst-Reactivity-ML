@@ -12,7 +12,7 @@ id,smiles
 14,C1=CC2=C(C3=C(C=CC=N3)C(=O)C2=O)N=C1
 16,C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1
 17,C1=CC2=CC(=C3C=CC=NC3=C2N=C1)[N+](=O)[O-]
-19,O=C1c2ccccc2-c2ccccc21
+19,O=c2c1cccnc1c3ncccc23
 20,CC1=CN=C2C(=C1C)C=CC3=C(C(=CN=C32)C)C
 21,C1=CC=C2C(=C1)C=CC(=N2)C3=NC4=CC=CC=C4C=C3
 23,Cc5cc(c1ccccc1)c4ccc3c(c2ccccc2)cc(C)nc3c4n5

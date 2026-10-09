@@ -1,23 +1,24 @@
 {
  "id": "19",
- "smiles": "O=C1c2ccccc2-c2ccccc21",
+ "smiles": "O=c2c1cccnc1c3ncccc23",
  "n_conformers": 12,
  "energies_kcal": [
-  0.0,
-  0.0,
-  0.0,
-  0.0,
-  0.0,
-  0.0,
-  0.0,
-  0.0,
-  0.0,
-  0.0,
-  0.0,
-  0.0
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
  ],
- "generation_time": 54.94122099876404,
- "energy_range": 0.0,
+ "generation_time": 38.2903311252594,
+ "energy_range": null,
  "sdf_file": "19_conformers.sdf",
- "xyz_file": ""
+ "xyz_file": "",
+ "energy_status": "Not calculated: sampling-only LoQI; descriptor pipeline uses the first valid conformer."
 }
